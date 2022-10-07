@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abebe Teferi Lemma.
 - 👀 I’m interested in enhancing my knowledge of programming in C#, PHP, ReactNative, MySQL, and Python and applying those skills to a better service.
-- 🌱 I’m currently learning C#, and ReactNative.
+- 🌱 I’m currently learning C, Python, React, JavaScript/Es6 and Node.js.
 - 💞️ I’m looking to collaborate on Home to Home and Corporate Delivery System and other projects brought to my attention.
 - 📫 How to reach me: e-mail abebe.teferi@yahoo.com, abebetefer.teferi@gmail.com  Phonenumber: +2510937920925
 
