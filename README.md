@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Abebe Teferi Lemma.
-- 👀 I’m interested in enhancing my knowledge of programming in C#, PHP, ReactNative, MySQL, and Python and applying those skills to a better service.
-- 🌱 I’m currently learning C, Python, React, JavaScript/Es6 and Node.js.
-- 💞️ I’m looking to collaborate on Home to Home and Corporate Delivery System and other projects brought to my attention.
-- 📫 How to reach me: e-mail abebe.teferi@yahoo.com, abebetefer.teferi@gmail.com  Phonenumber: +2510937920925
+- 👀 I have a Bachelors Degree in Electronics Engineering Technology and a Masters Degree in Computer Science.
+- I have working on software development for almost three years now an End-Won E-Publishing PLC.
+- In this portfolio is a list of projects I have developed ever since I became a software engineer in 2020.
 
 <!---
 ateferi/ateferi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
